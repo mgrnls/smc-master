@@ -1,0 +1,1 @@
+This file contains some of the work completed for the Music Information Retrieval (MIR) class. The Jupyter notebook provided contains the code for a simple instrument recognition algorithm, all of which was written by [Nerea Tascón Ruiz](https://github.com/nereatr) and me.
